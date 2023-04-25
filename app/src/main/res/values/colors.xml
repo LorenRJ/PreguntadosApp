@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#044206</color>
+    <color name="red">#F10606</color>
+    <color name="historia">#352010</color>
+    <color name="Economia">#DCCA08</color>
+    <color name="fondo">#B1D4EF</color>
+    <color name="fondo2">#243A77</color>
+    <color name="dorado">#F8C006</color>
+    <color name="geografia">#439102</color>
+    <color name="deporte">#FF9100</color>
+    <color name="ciencia">#00B0FF</color>
+    <color name="descripcion">#1A0A40</color>
+</resources>

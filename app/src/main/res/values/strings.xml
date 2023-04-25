@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PruebasAndroid</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="inicio">Hola que tal</string>
+    <string name="pregunta">En que año se descubrio América?</string>
+    <string name="introduccion"> Introduce la respuesta</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="descripcionm">
+        Tutorial
+
+        Para poder jugara a este juego desbes de tener en cuenta vaarias cosas!!.
+
+    1.- Vas a tener que responder 20 preguntas de todo tipo 4 tipos de familias
+        -Geografía
+        -Historia
+        -Deporte
+        -Ciencia
+    2.- No puedes volver atrás la respuesta, una vez repondida la pregunta te saldrá en color rojo si falla y
+        verde si aciertas, en ninguno de los casos se descubrira la respuesta correcta.
+    3.- Para ver los aciertos puedes consultarlo en la barra de arriba izquiera de la pantalla de juego donde
+        te indicaran los aciertos en base a las 20 preguntas.
+    4.- Una vez hayas finalizado te saldra el resultado en la pantalla final del juego, en el caso de
+        responder las 20 preguntas de forma correcta entrarás de forma automática en sorte de una PS5
+    5.- Ultimo paso es disfrutar!!
+
+    </string>
+</resources>
